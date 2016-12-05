@@ -1,0 +1,5 @@
+# Not the virtual environment.
+env
+
+# Not the VS project file either.
+ict.pyproj
